@@ -20,6 +20,7 @@ Skills: Python / C / HTML / CSS / WordPress / Wix / SquareSpace
 - 📫 How to reach me: Just search in google "UCHIHA SHAHIN" 
 - ⚡ Fun fact: I will never quit 
 
+![Profile views](https://gpvc.arturio.dev/uchihashahin01)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uchihashahin01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/uchihashahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@uchihashahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uchihashahin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/uchihashahinn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/uchihashahin01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/uchiha_shahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/uchihashahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/uchihashahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15471779/uchiha-shahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC8KbD-4XbJVvhR0uYAqgONg)  
 
@@ -27,13 +28,12 @@ Skills: Python / C / HTML / CSS / WordPress / Wix / SquareSpace
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uchihashahin01)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01)
 
-![GitHub metrics](https://metrics.lecoq.io/uchihashahin01)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uchihashahin01)    
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01)  
-
-![Profile views](https://gpvc.arturio.dev/uchihashahin01)  
+  
+  
 
 <!---
 uchihashahin01/uchihashahin01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
