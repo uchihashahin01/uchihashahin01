@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Shahin Alam (Uchiha Shahin)
 #### This is just the beginning of me
-![This is just the beginning of me]
 
 I'm Md. Shahin Alam (Uchiha Shahin). Working as Web Developer from 2019. I have completed 150+ projects. I can provide freelance web development services like: 
 -- WordPress Theme Customization
