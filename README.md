@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&locale=en" alt="uchihashahin01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01&" alt="uchihashahin01" /></p>
+
+<p>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uchihashahin01) </p>    
