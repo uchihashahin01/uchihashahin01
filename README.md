@@ -142,7 +142,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.youtube.com/c/uc8kbd-4xbjvvhr0uyaqgong" target="blank"
+  <a href="https://www.youtube.com/channel/UC8KbD-4XbJVvhR0uYAqgONg" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
