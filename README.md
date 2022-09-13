@@ -24,9 +24,15 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Developing an AI** - 🌱 I’m currently learning
-**Python** - 💬 Ask me about **"Anything"** - 📫 How to reach me **Just search
-in google "UCHIHA SHAHIN"** - ⚡ Fun fact **I will never quit**
+- 🔭 I’m currently working on **Developing an AI**
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **"Anything"**
+
+- 📫 How to reach me **Just search in google "UCHIHA SHAHIN"**
+
+- ⚡ Fun fact **I will never quit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
