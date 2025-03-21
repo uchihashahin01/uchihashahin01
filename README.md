@@ -24,7 +24,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Developing an AI**
+- 🔭 I’m currently working on **Developing an Interesting Thing**
 
 - 🌱 I’m currently learning **Python**
 
