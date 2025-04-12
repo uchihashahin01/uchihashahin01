@@ -34,6 +34,10 @@
 
 - ⚡ Fun fact **I will never quit**
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@uchihashahin/30-nites-of-code)  
+  ![@uchihashahin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=uchihashahin)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/uchihashahin" target="blank"
