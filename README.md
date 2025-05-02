@@ -76,20 +76,17 @@
 ## 📊 My Stats
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en">
+  <a href="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" width="400" height="150" />
   </a>
-  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula">
+
+  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula" target="_blank">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula" alt="GitHub Streak" width="400" height="150" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula" alt="Contribution Graph" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula" target="_blank">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula" alt="Contribution Graph" />
   </a>
 </p>
