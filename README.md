@@ -76,7 +76,7 @@
 ## 📊 My Stats
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" target="_blank">
+  <a href="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" width="400" height="150" />
   </a>
 
