@@ -79,10 +79,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01&theme=dracula" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula" alt="GitHub Streak" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=uchihashahin01&theme=dracula" alt="Contribution Graph" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula" alt="Contribution Graph" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uchihashahin01&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
