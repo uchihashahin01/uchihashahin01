@@ -19,11 +19,6 @@
 - 📫 **Reach me**: Search *"UCHIHA SHAHIN"* on Google 🔍
 - ⚡ **Fun fact**: I will *never* quit! 💪
 
-### #30NitesOfCode
-Check out my progress: [CodeDex Profile](https://www.codedex.io/@uchihashahin/30-nites-of-code)  
-![#30NitesOfCode](https://www.codedex.io/api/petStatus?user=uchihashahin)
-
----
 
 ## 🌐 Connect with Me
 
