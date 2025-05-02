@@ -76,11 +76,11 @@
 ## 📊 My Stats
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" width="400" />
+  <a href="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" width="400" height="150" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula" alt="GitHub Streak" width="400" />
+  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uchihashahin01&theme=dracula" alt="GitHub Streak" width="400" height="150" />
   </a>
 </p>
 <p align="center">
@@ -89,7 +89,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uchihashahin01&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=dracula" alt="Contribution Graph" />
+  </a>
 </p>
 
 ---
