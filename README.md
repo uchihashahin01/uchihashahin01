@@ -43,6 +43,7 @@
   <a href="https://www.leetcode.com/uchihashahin"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.hackerearth.com/@uchihashahin"><img src="https://img.shields.io/badge/HackerEarth-323F4B?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"></a>
   <a href="https://www.topcoder.com/members/uchihashahin"><img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"></a>
+  <a href="https://tryhackme.com/p/mshahinalam"><img src="https://img.shields.io/badge/TryHackMe-FF5722?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 </p>
 
 ---
@@ -69,6 +70,8 @@
   <a href="https://metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"></a>
   <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"></a>
   <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"></a>
+  <!-- SIEM -->
+  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-4FA1C0?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh"></a>
   <!-- Version Control -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
 </p>
