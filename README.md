@@ -167,7 +167,7 @@ Automated VAPT pipeline that scans for OWASP Top 10 flaws in web apps. Simulates
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uchihashahin01&theme=algolia&no-frame=true&column=6&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uchihashahin01&layout=compact&hide_border=true&bg_color=0d1117&title_color=58E6D9&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ---
