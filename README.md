@@ -1,82 +1,74 @@
-<h1 align="center">Hi, I'm Shahin Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" /></h1>
+<h1 align="center">Md Shahin Alam</h1>
 
-<h3 align="center">Developer | Security Learner | Lifelong Builder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00B894&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Cybersecurity+Enthusiast;Python+%7C+JavaScript+%7C+C%2B%2B;Always+improving%2C+never+quitting." alt="Typing intro" />
-</p>
+<h3 align="center">Security Analyst | SOC Monitoring | VAPT | CTF Team Lead</h3>
 
 <p align="center">
+  <a href="mailto:mshahinalam.cs@gmail.com"><img src="https://img.shields.io/badge/Email-mshahinalam.cs%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/uchihashahin"><img src="https://img.shields.io/badge/LinkedIn-uchihashahin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://uchihashahin01.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-111111?style=flat&logo=githubpages&logoColor=white" alt="Website" /></a>
   <img src="https://komarev.com/ghpvc/?username=uchihashahin01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/uchihashahin01?tab=followers">
-    <img src="https://img.shields.io/github/followers/uchihashahin01?label=Followers&style=flat&color=1f6feb" alt="GitHub followers" />
-  </a>
-  <a href="https://twitter.com/uchiha_shahin">
-    <img src="https://img.shields.io/twitter/follow/uchiha_shahin?logo=twitter&style=flat&color=1DA1F2" alt="Twitter follow" />
-  </a>
 </p>
 
 ---
 
-## About Me
+## Profile
 
-- Currently learning and growing in `Python`, `Cybersecurity`, and modern web development.
-- I enjoy solving problems, building useful projects, and exploring security tooling.
-- Motto: `Consistency beats intensity.`
-- Reach me: `linkedin.com/in/uchihashahin`
+M.Sc. in Cyber Security graduate and proactive Security Analyst with hands-on experience in SOC monitoring, log analysis, and Vulnerability Assessment and Penetration Testing (VAPT). I lead the CTF team **ACERGION**, ranked **1st in Bangladesh on CTFtime (2025)**. I work with SIEM implementation, Linux administration, MITRE ATT&CK, and OWASP Top 10 to support threat hunting and enterprise defense.
 
-## Focus Now
+## Core Skills
 
-- Sharpening problem-solving and algorithmic thinking.
-- Building practical mini-projects and sharing progress.
-- Expanding security knowledge through hands-on labs.
+- **SOC and Detection:** SOC Operations, Incident Response, Log Analysis, Wazuh SIEM
+- **Offensive Security:** VAPT, OWASP Top 10, Web Exploitation, OSINT
+- **CTF Domains:** Reverse Engineering, Binary Exploitation, Cryptography, Web Security
+- **Programming and OS:** Python, Bash, JavaScript, Java, C, Solidity, Linux Administration
+- **Network Security:** TCP/IP, Firewalls, IDS/IPS, Network Traffic Analysis
+- **Security Tools:** Wireshark, Burp Suite, Autopsy, theHarvester
 
-## Tech Stack
+## Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bootstrap,git,linux&perline=10" alt="Core technologies" />
-</p>
+### ThreatTriage: Automated SOC Alert and Log Analysis Engine (2026)
+- Built a Python automation utility to ingest and analyze syslog, HTTP logs, and DB logs for malicious activity.
+- Integrated threat intelligence APIs (VirusTotal, AlienVault) to validate SIEM alerts and reduce false positives.
+- Visualized alerts in dashboards for real-time SOC decision support.
 
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
+### Kernel-Watch: Real-Time Linux Threat Detection Using eBPF and AI (2026)
+- Developed a system-level defense framework for memory integrity and kernel tamper detection.
+- Implemented AI-driven logic to detect advanced attack patterns and potential zero-day behavior.
+- Generated incident reports mapped to MITRE ATT&CK techniques.
 
-## Connect With Me
+### Auto-VAPT: CI/CD Integrated Vulnerability Assessment Scanner (2026)
+- Engineered an automated VAPT pipeline to identify OWASP Top 10 issues in web applications.
+- Automated offensive testing workflows with Python and Bash to simulate real-world attack paths.
+- Produced mitigation reports with severity levels and remediation guidance.
 
-<p>
-  <a href="https://linkedin.com/in/uchihashahin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/uchiha_shahin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/uchihashahin"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://hashnode.com/@uchihashahin"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://www.youtube.com/channel/UC8KbD-4XbJVvhR0uYAqgONg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
+## Education and Training
 
-<details>
-<summary>More Profiles</summary>
+- **M.Sc. in Cyber Security**, Asia Pacific University of Technology and Innovation (APU), Kuala Lumpur (Feb 2025 - Feb 2026)
+- **B.Sc. in Computer Science and Engineering**, Daffodil International University, Dhaka (Jan 2020 - Jan 2024), CGPA: 3.82/4.00
+- **ELITE Live SOC Module (ESOL), 50 Lab Hours**, Tecforte/APU (Feb 2025 - Jun 2025)
 
-- `https://codepen.io/uchihashahin`
-- `https://stackoverflow.com/users/15471779/uchiha-shahin`
-- `https://codesandbox.com/uchihashahin`
-- `https://kaggle.com/uchihashahin`
-- `https://fb.com/uchihashahinn`
-- `https://instagram.com/uchiha.shahin`
-- `https://dribbble.com/uchihashahin`
-- `https://www.behance.net/uchihashahin`
-- `https://medium.com/@uchihashahin`
-- `https://www.codechef.com/users/uchihashahin`
-- `https://www.hackerrank.com/ashahin7621`
-- `https://codeforces.com/profile/uchihashahin`
-- `https://www.leetcode.com/uchihashahin`
-- `https://www.hackerearth.com/@uchihashahin`
-- `https://www.topcoder.com/members/uchihashahin`
-- `https://tryhackme.com/p/mshahinalam`
+## Experience
 
-</details>
+**Blockchain Trainer** - Dhaka, Bangladesh (Jun 2023 - Jan 2024)
+- Delivered security-focused training for 50+ learners.
+- Built practical project-based sessions to strengthen technical collaboration.
+- Provided technical guidance and issue resolution support.
 
-## GitHub Stats
+## Honors and CTF Achievements
+
+- **CTFtime 2025:** Team ACERGION ranked **1st in Bangladesh**
+- **ASIS CTF Finals 2025:** Ranked **14/476**
+- **hxp 39C3 CTF 2025:** Ranked **29/263**
+- **Infobahn CTF 2025:** Ranked **11/803**
+
+## Links
+
+- Personal Website: `https://uchihashahin01.github.io/`
+- LinkedIn: `https://linkedin.com/in/uchihashahin`
+- CTFtime Team: `https://ctftime.org/team/175853`
+- TryHackMe: `https://tryhackme.com/p/mshahinalam`
+
+## GitHub Overview
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
@@ -87,12 +79,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
 
-## Badge
-
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/mshahinalam.png" alt="TryHackMe badge" />
 </p>
-
----
-
-<p align="center"><i>"I don't stop when I'm tired. I stop when I'm done."</i></p>
