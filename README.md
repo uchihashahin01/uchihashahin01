@@ -1,84 +1,179 @@
-<h1 align="center">Md Shahin Alam</h1>
-
-<h3 align="center">Security Analyst | SOC Monitoring | VAPT | CTF Team Lead</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=UCHIHA%20SHAHIN&fontColor=00ff41&fontSize=50&fontAlignY=35&desc=%F0%9F%94%90%20Security%20Analyst%20%E2%80%A2%20CTF%20Player%20%E2%80%A2%20SOC%20%E2%80%A2%20VAPT&descAlignY=55&descSize=18&descColor=c9d1d9&animation=twinkling" width="100%" />
 
 <p align="center">
-  <a href="mailto:mshahinalam.cs@gmail.com"><img src="https://img.shields.io/badge/Email-mshahinalam.cs%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/uchihashahin"><img src="https://img.shields.io/badge/LinkedIn-uchihashahin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://uchihashahin01.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-111111?style=flat&logo=githubpages&logoColor=white" alt="Website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=uchihashahin01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Shahin+Alam;%24+cat+%2Fetc%2Fpassion+%E2%86%92+Offensive+Security;%24+nmap+-sV+ctftime.org+%E2%86%92+Team+ACERGION+%231+BD;%24+python3+exploit.py+%E2%86%92+Access+Granted+%F0%9F%94%93" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uchihashahin01&label=Watchers&color=00ff41&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/uchihashahin01?tab=followers"><img src="https://img.shields.io/github/followers/uchihashahin01?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117" alt="followers" /></a>
+  <a href="https://ctftime.org/team/175853"><img src="https://img.shields.io/badge/CTFtime-Team%20ACERGION-00ff41?style=flat-square&logo=hackthebox&logoColor=00ff41&labelColor=0d1117" alt="CTFtime" /></a>
 </p>
 
 ---
 
-## Profile
+## `> cat /etc/about_me`
 
-M.Sc. in Cyber Security graduate and proactive Security Analyst with hands-on experience in SOC monitoring, log analysis, and Vulnerability Assessment and Penetration Testing (VAPT). I lead the CTF team **ACERGION**, ranked **1st in Bangladesh on CTFtime (2025)**. I work with SIEM implementation, Linux administration, MITRE ATT&CK, and OWASP Top 10 to support threat hunting and enterprise defense.
+```python
+#!/usr/bin/env python3
 
-## Core Skills
+class UchihaShahin:
+    def __init__(self):
+        self.name       = "Md Shahin Alam"
+        self.alias      = "Uchiha Shahin"
+        self.role       = "Security Analyst | CTF Team Lead"
+        self.education  = "M.Sc. Cyber Security (APU, Malaysia)"
+        self.ctf_team   = "ACERGION — #1 Bangladesh (CTFtime 2025)"
+        self.website    = "https://uchihashahin01.github.io/"
+        self.focus      = ["SOC Monitoring", "VAPT", "Threat Hunting",
+                           "Reverse Engineering", "Binary Exploitation"]
 
-- **SOC and Detection:** SOC Operations, Incident Response, Log Analysis, Wazuh SIEM
-- **Offensive Security:** VAPT, OWASP Top 10, Web Exploitation, OSINT
-- **CTF Domains:** Reverse Engineering, Binary Exploitation, Cryptography, Web Security
-- **Programming and OS:** Python, Bash, JavaScript, Java, C, Solidity, Linux Administration
-- **Network Security:** TCP/IP, Firewalls, IDS/IPS, Network Traffic Analysis
-- **Security Tools:** Wireshark, Burp Suite, Autopsy, theHarvester
+    def motto(self):
+        return "I don't stop when I'm tired. I stop when I'm done."
 
-## Featured Projects
+me = UchihaShahin()
+```
 
-### ThreatTriage: Automated SOC Alert and Log Analysis Engine (2026)
-- Built a Python automation utility to ingest and analyze syslog, HTTP logs, and DB logs for malicious activity.
-- Integrated threat intelligence APIs (VirusTotal, AlienVault) to validate SIEM alerts and reduce false positives.
-- Visualized alerts in dashboards for real-time SOC decision support.
+---
 
-### Kernel-Watch: Real-Time Linux Threat Detection Using eBPF and AI (2026)
-- Developed a system-level defense framework for memory integrity and kernel tamper detection.
-- Implemented AI-driven logic to detect advanced attack patterns and potential zero-day behavior.
-- Generated incident reports mapped to MITRE ATT&CK techniques.
+## `> ls ~/arsenal/`
 
-### Auto-VAPT: CI/CD Integrated Vulnerability Assessment Scanner (2026)
-- Engineered an automated VAPT pipeline to identify OWASP Top 10 issues in web applications.
-- Automated offensive testing workflows with Python and Bash to simulate real-world attack paths.
-- Produced mitigation reports with severity levels and remediation guidance.
+<table>
+<tr><td valign="top" width="50%">
 
-## Education and Training
-
-- **M.Sc. in Cyber Security**, Asia Pacific University of Technology and Innovation (APU), Kuala Lumpur (Feb 2025 - Feb 2026)
-- **B.Sc. in Computer Science and Engineering**, Daffodil International University, Dhaka (Jan 2020 - Jan 2024), CGPA: 3.82/4.00
-- **ELITE Live SOC Module (ESOL), 50 Lab Hours**, Tecforte/APU (Feb 2025 - Jun 2025)
-
-## Experience
-
-**Blockchain Trainer** - Dhaka, Bangladesh (Jun 2023 - Jan 2024)
-- Delivered security-focused training for 50+ learners.
-- Built practical project-based sessions to strengthen technical collaboration.
-- Provided technical guidance and issue resolution support.
-
-## Honors and CTF Achievements
-
-- **CTFtime 2025:** Team ACERGION ranked **1st in Bangladesh**
-- **ASIS CTF Finals 2025:** Ranked **14/476**
-- **hxp 39C3 CTF 2025:** Ranked **29/263**
-- **Infobahn CTF 2025:** Ranked **11/803**
-
-## Links
-
-- Personal Website: `https://uchihashahin01.github.io/`
-- LinkedIn: `https://linkedin.com/in/uchihashahin`
-- CTFtime Team: `https://ctftime.org/team/175853`
-- TryHackMe: `https://tryhackme.com/p/mshahinalam`
-
-## GitHub Overview
+### 🔴 Offensive
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-1a1a2e?style=for-the-badge&logo=opsgenie&logoColor=00ff41" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
+</td><td valign="top" width="50%">
+
+### 🔵 Defensive
 
 <p>
+  <img src="https://img.shields.io/badge/Wazuh%20SIEM-3C873A?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge&logo=forensicarchitecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-ED1C24?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-0d1117?style=for-the-badge&logo=elastic&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Incident%20Response-ff4444?style=for-the-badge&logo=pagerduty&logoColor=white" />
+</p>
+
+</td></tr>
+<tr><td valign="top" width="50%">
+
+### ⚙️ Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,java,c,solidity&theme=dark" />
+</p>
+
+</td><td valign="top" width="50%">
+
+### 🛠️ Platforms & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,github,vscode&theme=dark" />
+</p>
+
+</td></tr>
+</table>
+
+---
+
+## `> cat /var/log/ctf_achievements.log`
+
+```
+[2025-12-XX] 🏆 CTFtime — Team ACERGION — Ranked #1 in Bangladesh
+[2025-12-XX] 🥇 ASIS CTF Finals 2025 — Ranked 14/476
+[2025-12-XX] 🥇 hxp 39C3 CTF — Ranked 29/263
+[2025-11-XX] 🥇 Infobahn CTF 2025 — Ranked 11/803
+```
+
+<p>
+  <a href="https://ctftime.org/team/175853"><img src="https://img.shields.io/badge/View%20on%20CTFtime-Team%20ACERGION-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117" alt="CTFtime" /></a>
+</p>
+
+---
+
+## `> tree ~/projects/`
+
+<details open>
+<summary><b>🔍 ThreatTriage — Automated SOC Alert & Log Analysis Engine</b></summary>
+<br>
+<blockquote>
+Python-based automation for ingesting syslog, HTTP, and DB logs — integrated with VirusTotal & AlienVault APIs to validate SIEM alerts and cut false positives. Real-time dashboards for SOC analysts.
+</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-00ff41?style=flat-square&logo=elastic&logoColor=0d1117" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛡️ Kernel-Watch — Real-Time Linux Threat Detection (eBPF + AI)</b></summary>
+<br>
+<blockquote>
+System-level defense framework for memory integrity monitoring and kernel tamper detection. AI-driven intrusion detection with incident reports mapped to MITRE ATT&CK techniques.
+</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/eBPF-FF6600?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-000000?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-ED1C24?style=flat-square&logo=mitre&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Auto-VAPT — CI/CD Integrated Vulnerability Scanner</b></summary>
+<br>
+<blockquote>
+Automated VAPT pipeline that scans for OWASP Top 10 flaws in web apps. Simulates real-world attack vectors with Python and Bash, generates severity-rated mitigation reports.
+</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
+</details>
+
+---
+
+## `> neofetch`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uchihashahin01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihashahin01&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="170" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## `> cat ~/.badges`
+
+<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/mshahinalam.png" alt="TryHackMe badge" />
 </p>
+
+---
+
+## `> ping shahin`
+
+<p align="center">
+  <a href="https://uchihashahin01.github.io/"><img src="https://img.shields.io/badge/🌐%20Website-uchihashahin01.github.io-0d1117?style=for-the-badge&labelColor=00ff41" alt="Website" /></a>
+  <a href="https://linkedin.com/in/uchihashahin"><img src="https://img.shields.io/badge/LinkedIn-Shahin%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mshahinalam.cs@gmail.com"><img src="https://img.shields.io/badge/Email-mshahinalam.cs-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/uchiha_shahin"><img src="https://img.shields.io/badge/Twitter-uchiha__shahin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://tryhackme.com/p/mshahinalam"><img src="https://img.shields.io/badge/TryHackMe-mshahinalam-FF5722?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%" />
