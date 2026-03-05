@@ -147,10 +147,16 @@ Automated VAPT pipeline that scans for OWASP Top 10 flaws in web apps. Simulates
 
 ## `> neofetch`
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uchihashahin01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58E6D9&icon_color=6C63FF&text_color=c9d1d9" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=uchihashahin01&hide_border=true&background=0d1117&ring=6C63FF&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=c9d1d9&currStreakNum=58E6D9&sideNums=6C63FF&dates=555555" height="170" alt="streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uchihashahin01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58E6D9&icon_color=6C63FF&text_color=c9d1d9" height="170" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=uchihashahin01&hide_border=true&background=0d1117&ring=6C63FF&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=c9d1d9&currStreakNum=58E6D9&sideNums=6C63FF&dates=555555" height="170" alt="streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchihashahin01&bg_color=0d1117&color=58E6D9&line=6C63FF&point=58E6D9&area_color=6C63FF&area=true&hide_border=true" alt="Contribution graph" />
